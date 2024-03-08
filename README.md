@@ -8,6 +8,8 @@ Vue3-Magic-Generator采用创新的大模型技术，能够将您口中的简短
 
 🎇 **变革创造**：我们所做的不仅仅是构建项目，而是在重新定义Web开发的未来边界。
 
+![bt下载](https://github.com/yxhpy/Vue3-Magic-Generator/assets/50817371/7c8b5184-925e-4106-b928-f37fc573b243)
+
 ## ✨ 核心特性
 
 - **📖 自然语言理解**：我们的AI深刻理解您的需求，确保无一遗失。
