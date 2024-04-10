@@ -4,7 +4,7 @@
 
 ## 成果展示
 
-![su7](https://su7.yxhpy.xyz/PurchaseServices)
+[su7](https://su7.yxhpy.xyz/PurchaseServices)
 
 ## 🚀 项目简介
 
