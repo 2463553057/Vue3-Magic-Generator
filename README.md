@@ -5,6 +5,7 @@
 ## 成果展示
 
 [su7官网展示](https://su7.yxhpy.xyz/PurchaseServices)
+[Large Model Generation](https://lmg.yxhpy.xyz/)
 
 ## 🚀 项目简介
 
